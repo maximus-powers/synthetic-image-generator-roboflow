@@ -1,0 +1,5 @@
+notes.py
+stable-diffusion-v1-5_pretrained-model/*
+__pycache__
+syntheticCV
+.env
